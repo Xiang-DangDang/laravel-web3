@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "steven-ok/web3.php": "dev-master"
+        "steven-ok/web3.php": "^1.0.1"
     },
     "autoload": {
         "psr-4": {
